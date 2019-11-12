@@ -88,7 +88,7 @@ WordPress Website with Bootstrap</p>
                             <div class="price active">
                                 <h4>Pre-Launch Price <small>Ends soon!</small></h4>
 
-                                <span>$149</span>
+                                <span>$150</span>
                             </div><!-- price -->
 
                             <div class="price">

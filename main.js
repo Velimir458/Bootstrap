@@ -21,7 +21,7 @@ $(function() {
             // Move the background
             $bgobj.css({ backgroundPosition: coords });
 
-        }); // end window scroll
+        }); // scroll end window
 
     });
 
